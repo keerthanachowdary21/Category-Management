@@ -83,7 +83,7 @@ A full-stack e-commerce admin panel designed for category management. FastCart a
 4. Start the backend server:
 
    ```bash
-   npm run dev
+   node app.js
    ```
 
 > The backend server will run at [http://localhost:5000](http://localhost:5000)
@@ -116,7 +116,7 @@ A full-stack e-commerce admin panel designed for category management. FastCart a
 
 ## 🔗 Integration
 
-Ensure both frontend and backend servers are running.  
+Please make sure both front-end and back-end servers are running.  
 API calls from the frontend are configured to point to:  
 `http://localhost:5000/api`  
 If your backend is hosted elsewhere, update the Axios base URL accordingly.

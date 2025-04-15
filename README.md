@@ -62,8 +62,8 @@ A full-stack e-commerce admin panel designed for category management. FastCart a
 1. Clone the repository and navigate to the `backend` folder:
 
    ```bash
-   git clone https://github.com/tsingha97/revisit-category-management.git
-   cd revisit-category-management/backend
+   git clone https://github.com/keerthanachowdary/category-management.git
+   cd category-management/backend
    ```
 
 2. Install dependencies:
